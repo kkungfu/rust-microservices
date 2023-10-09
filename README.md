@@ -1,2 +1,3 @@
-# rust-microservice-starter
+# Microservice Architectured REST API Starterkit
+
 Rust, Microservice, REST
